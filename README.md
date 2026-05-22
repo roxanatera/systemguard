@@ -8,6 +8,8 @@
 ![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Audit-red?style=for-the-badge)
 
+![Demo](assets/demo.svg)
+
 **[🇪🇸 Español](#español) · [🇬🇧 English](#english)**
 
 </div>
@@ -173,4 +175,5 @@ This project is part of my learning path towards **DevSecOps and Cybersecurity**
 Made with 🐧 by **Roxana** · [Portfolio](https://roxana.dev) · [LinkedIn](#)
 
 </div>
+
 ![SystemGuard Demo](assets/systemimg.png)
